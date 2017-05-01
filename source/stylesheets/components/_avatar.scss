@@ -3,9 +3,16 @@
   border-radius: 50%;
 }
 .avatar-large {
-  width: 200px;
+  width: 50px;
   border-radius: 50%;
 }
+
+.avatar-extralarge {
+  width: 150px;
+  height: 150px;
+  border-radius: 200%;
+}
+
 .avatar-bordered {
   width: 30px;
   border-radius: 50%;
